@@ -47,7 +47,7 @@ class _SplashScreenPageState extends State<SplashScreenPage> {
                   children: [
                     Container(
                       child: Text(
-                        "I don't give a fuck,asm punk!",
+                        "I don't give a fuck, I'm punk!",
                         style: TextStyle(
                           color: Colors.cyanAccent,
                           fontFamily: "TitilliumWeb",
