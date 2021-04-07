@@ -36,10 +36,10 @@ dependencies:
   #A flutter package for showing a country code selector.
   country_code_picker: ^1.6.2
   # A set of utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
-  flutter_redux: ^0.6.0
+  flutter_redux: ^0.8.2
 
   # Redux Remote Devtools support for Dart and Flutter.
-  redux_remote_devtools: ^1.0.4
+  redux_remote_devtools: ^3.0.0
 
   # A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData,
   # Request Cancellation, File downloading, Timeout etc.
@@ -54,8 +54,8 @@ dependencies:
   # Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based
   # solution is used in Android.
   flutter_secure_storage: ^3.3.1+1
-  shared_preferences: ^0.5.10
-  redux_thunk: ^0.3.0
+  shared_preferences: ^2.0.5
+  redux_thunk: ^0.4.0
   flushbar: ^1.10.2
   #A Flutter staggered grid view which supports multiple columns with rows of varying sizes.
   flutter_staggered_grid_view: ^0.3.2

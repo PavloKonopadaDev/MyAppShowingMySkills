@@ -65,7 +65,7 @@ class _MyAppState extends State<MyApp> {
 }
 
 _storeConfiguration() {
-  const REMOTE_HOST = '192.168.43.233:8000';
+  const REMOTE_HOST = '192.168.1.40:8000';
 
   var remoteDevTools = RemoteDevToolsMiddleware(REMOTE_HOST);
 
